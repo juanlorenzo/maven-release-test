@@ -27,8 +27,8 @@
 
   <scm>
     <url>https://github.com/juanlorenzo/maven-release-test</url>
-    <connection>scm:git:git@github.com:juanlorenzo/maven-release-test.git</connection>
-    <developerConnection>scm:git:git@github.com:juanlorenzo/maven-release-test.git</developerConnection>
+    <connection>scm:git:https://github.com/juanlorenzo/maven-release-test.git</connection>
+    <developerConnection>scm:git:https://github.com/juanlorenzo/maven-release-test.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
