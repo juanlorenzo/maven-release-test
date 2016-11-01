@@ -4,7 +4,7 @@
 
   <groupId>uy.com.test</groupId>
   <artifactId>maven-release-test-parent</artifactId>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>maven-release-test-parent</name>
@@ -32,7 +32,6 @@
   </scm>
 
   <properties>
-    <project.scm.id>github-server<project.scm.id>
   </properties>
 
   <dependencyManagement>
@@ -53,7 +52,7 @@
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-release-plugin</artifactId>
-          <version>2.5.3</version>
+          <version>2.5.1</version>
         </plugin>
       </plugins>
     </pluginManagement>
