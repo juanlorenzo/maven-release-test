@@ -4,7 +4,7 @@
 
   <groupId>uy.com.test</groupId>
   <artifactId>maven-release-test-parent</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.4-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>maven-release-test-parent</name>
@@ -28,7 +28,7 @@
     <url>https://github.com/juanlorenzo/maven-release-test</url>
     <connection>scm:git:https://github.com/juanlorenzo/maven-release-test.git</connection>
     <developerConnection>scm:git:https://github.com/juanlorenzo/maven-release-test.git</developerConnection>
-    <tag>maven-release-test-parent-1.0.3</tag>
+    <tag>maven-release-test-parent-1.0.0</tag>
   </scm>
 
   <properties>
