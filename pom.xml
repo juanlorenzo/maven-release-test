@@ -32,7 +32,7 @@
   </scm>
 
   <properties>
-    <project.scm.id>github-server<project.scm.id>
+    <project.scm.id>github-server</project.scm.id>
   </properties>
 
   <dependencyManagement>
